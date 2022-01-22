@@ -22,18 +22,20 @@
     "url": "https://www.fredrikson.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.fredrikson.com.ar",
     "slug": "fredrikson",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 177,
     "timeDay": 177,
     "timeWeek": 177,
     "timeMonth": 177,
     "timeYear": 177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-22": 0
+    }
   },
   {
     "name": "Pelado Nerd",
